@@ -1,2 +1,6 @@
 #!/bin/bash
+
+# shell script that prints python scripts
+
 python3 $PYFILE
+
